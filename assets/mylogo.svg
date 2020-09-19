@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="134.854"
+              height="81" viewBox="0 0 134.854 81">
+              <defs>
+                <filter id="Fawaz" x="5.854" y="0" width="129" height="81" filterUnits="userSpaceOnUse">
+                  <feOffset dy="3" input="SourceAlpha" />
+                  <feGaussianBlur stdDeviation="3" result="blur" />
+                  <feFlood flood-color="#b41414" flood-opacity="0.161" />
+                  <feComposite operator="in" in2="blur" />
+                  <feComposite in="SourceGraphic" />
+                </filter>
+              </defs>
+              <g id="Group_4" data-name="Group 4" transform="translate(-466.146 -452)">
+                <g transform="matrix(1, 0, 0, 1, 466.15, 452)" filter="url(#Fawaz)">
+                  <text id="Fawaz-2" data-name="Fawaz" transform="translate(14.85 48)" fill="#1fd1d1" font-size="50"
+                    font-family="RageItalic, Rage">
+                    <tspan x="0" y="0">Fawaz</tspan>
+                  </text>
+                </g>
+                <g id="Group_3" data-name="Group 3" transform="translate(20 78)">
+                  <g id="Group_1" data-name="Group 1">
+                    <line id="Line_1" data-name="Line 1" x1="6" y2="6" transform="translate(446.5 402.5)" fill="none"
+                      stroke="#1fd1d1" stroke-width="1" />
+                    <line id="Line_2" data-name="Line 2" x1="6" y1="6" transform="translate(446.5 408.5)" fill="none"
+                      stroke="#1fd1d1" stroke-width="1" />
+                  </g>
+                  <g id="Group_2" data-name="Group 2" transform="translate(455.5 402.5)">
+                    <line id="Line_1-2" data-name="Line 1" x2="6" y2="6" fill="none" stroke="#1fd1d1"
+                      stroke-width="1" />
+                    <line id="Line_2-2" data-name="Line 2" y1="6" x2="6" transform="translate(0 6)" fill="none"
+                      stroke="#1fd1d1" stroke-width="1" />
+                  </g>
+                  <line id="Line_3" data-name="Line 3" x1="6.007" y2="19.351"
+                    transform="translate(450.183 398.662) rotate(-8)" fill="none" stroke="#1fd1d1" stroke-width="1" />
+                </g>
+              </g>
+            </svg>
