@@ -18,6 +18,7 @@ Author URL: http://w3layouts.com
     <link href="https://fonts.googleapis.com/css?family=Nunito:400,700&display=swap" rel="stylesheet">
 
     <!-- Template CSS -->
+    <link rel="stylesheet" href="assets/css/preloader.css">
     <link rel="stylesheet" href="assets/css/style-starter.css">
 
 </head>
@@ -265,6 +266,7 @@ Author URL: http://w3layouts.com
     <button onclick="topFunction()" id="movetop" class="bg-primary" title="Go to top">
         <span class="fa fa-angle-up"></span>
     </button>
+    </body>
     <script>
         // When the user scrolls down 20px from the top of the document, show the button
         window.onscroll = function () {
@@ -311,8 +313,11 @@ Author URL: http://w3layouts.com
 
     <!--  bootstrap js -->
     <script src="assets/js/bootstrap.min.js"></script>
+    <script src="assets/js/preloader.js"></script>
     <!--  //bootstrap js -->
 
-</body>
-
+<div class="preloader">
+    <div class="lds-hourglass"></div>
+    <img src="assets/mylogo.svg" alt="Fawaz's Logo">
+</div>
 </html>

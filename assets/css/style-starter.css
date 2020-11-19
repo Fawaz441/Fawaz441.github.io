@@ -10935,6 +10935,7 @@ a.text-dark:focus {
 
   body {
     min-width: 992px !important;
+    display:none;
   }
 
   .container {
