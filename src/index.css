@@ -1,0 +1,32 @@
+@import "tailwindcss";
+
+*{
+  font-family: "Figtree", sans-serif;
+}
+
+.css-1xc3v61-indicatorContainer, .css-hlgwow, .css-19bb58m{
+  padding:0 !important;
+}
+
+.css-13cymwt-control{
+  min-height: auto !important;
+  border: none !important;
+}
+
+.css-19bb58m{
+  margin: 0 !important;
+}
+
+.css-t3ipsp-control{
+  min-height: auto !important;
+  border: none !important;
+
+  &:hover{
+    border:none !important
+  }
+}
+
+.css-1cfo1cf{
+  margin:0 !important;
+  padding: 0 !important;
+}

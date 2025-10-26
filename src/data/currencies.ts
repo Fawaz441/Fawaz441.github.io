@@ -1,0 +1,11 @@
+export const USD = "USD";
+export const EUR = "EUR";
+export const GBP = "GBP";
+export const JPY = "JPY";
+export const AUD = "AUD";
+export const CAD = "CAD";
+export const CHF = "CHF";
+export const NZD = "NZD";
+export const XAU = "XAU"; // Gold
+export const XAG = "XAG"; // Silver
+export const BTC = "BTC";
